@@ -1,5 +1,4 @@
 # 2017-sw-programming-project
-
 input : .exe “찾고자 하는 단어”
 ex) C:\>mysearch hello
 output : .txt(폴더안에 있는 파일들 중 “찾고자 하는 단어”를 가진 파일 출력)
