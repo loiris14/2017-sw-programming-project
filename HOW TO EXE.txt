@@ -1,0 +1,3 @@
+먼저 txt파일들과 다운받은 실행파일을 C:\texts 폴더 안에 넣고 cmd창을 실행시킨다. 
+cmd창에서 cd C:\texts 입력한다.
+이후 2017_SWprogramming 찾을 단어 을 입력하면 실행된다.
